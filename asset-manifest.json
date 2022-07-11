@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sinhtup.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/sinhtup.github.io/static/js/main.d5fd562d.js",
+    "main.js": "/sinhtup.github.io/static/js/main.e84e2870.js",
     "static/js/787.d6cb1aba.chunk.js": "/sinhtup.github.io/static/js/787.d6cb1aba.chunk.js",
     "static/media/logo.svg": "/sinhtup.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sinhtup.github.io/index.html",
     "main.073c9b0a.css.map": "/sinhtup.github.io/static/css/main.073c9b0a.css.map",
-    "main.d5fd562d.js.map": "/sinhtup.github.io/static/js/main.d5fd562d.js.map",
+    "main.e84e2870.js.map": "/sinhtup.github.io/static/js/main.e84e2870.js.map",
     "787.d6cb1aba.chunk.js.map": "/sinhtup.github.io/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d5fd562d.js"
+    "static/js/main.e84e2870.js"
   ]
 }
