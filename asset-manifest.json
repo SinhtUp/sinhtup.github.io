@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sinhtup.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/sinhtup.github.io/static/js/main.e84e2870.js",
-    "static/js/787.d6cb1aba.chunk.js": "/sinhtup.github.io/static/js/787.d6cb1aba.chunk.js",
-    "static/media/logo.svg": "/sinhtup.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/sinhtup.github.io/index.html",
-    "main.073c9b0a.css.map": "/sinhtup.github.io/static/css/main.073c9b0a.css.map",
-    "main.e84e2870.js.map": "/sinhtup.github.io/static/js/main.e84e2870.js.map",
-    "787.d6cb1aba.chunk.js.map": "/sinhtup.github.io/static/js/787.d6cb1aba.chunk.js.map"
+    "main.css": "/uha_my_portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/uha_my_portfolio/static/js/main.937913eb.js",
+    "static/js/787.d6cb1aba.chunk.js": "/uha_my_portfolio/static/js/787.d6cb1aba.chunk.js",
+    "static/media/logo.svg": "/uha_my_portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/uha_my_portfolio/index.html",
+    "main.073c9b0a.css.map": "/uha_my_portfolio/static/css/main.073c9b0a.css.map",
+    "main.937913eb.js.map": "/uha_my_portfolio/static/js/main.937913eb.js.map",
+    "787.d6cb1aba.chunk.js.map": "/uha_my_portfolio/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e84e2870.js"
+    "static/js/main.937913eb.js"
   ]
 }
