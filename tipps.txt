@@ -1,0 +1,3 @@
+npm run deploy 
+zum deployn auf die gh-pages branch
+manchmal vorher erneutes npm install ausführen nötig
